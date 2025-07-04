@@ -14,7 +14,7 @@ export default function Layout(props){
     const footer= (
     <footer>
        <p>Built by <a href="/">Jason Ho</a></p>
-    <   p>Repo on <a>Git</a></p>
+    <   p>Repo on <a href="https://github.com/kiet08hogit/getUrPump">Git</a></p>
     </footer>
     
 )
